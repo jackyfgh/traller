@@ -1,0 +1,27 @@
+{
+  "name": "traller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackyfgh/traller.git"
+  },
+  "keywords": [
+    "movie",
+    "trailer"
+  ],
+  "author": "jackyfgh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jackyfgh/traller/issues"
+  },
+  "homepage": "https://github.com/jackyfgh/traller#readme",
+  "dependencies": {
+    "koa": "^2.7.0"
+  }
+}
